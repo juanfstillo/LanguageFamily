@@ -1,2 +1,2 @@
 # LanguageFamily
-A modeled real-world language families.
+A modeled real-world language familie.
